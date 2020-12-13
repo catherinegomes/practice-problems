@@ -6,12 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pandas = "*"
 ipykernel = "*"
 numpy = "*"
-matplotlib = "*"
-plotly = "*"
-bokeh = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
